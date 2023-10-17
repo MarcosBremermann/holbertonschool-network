@@ -1,2 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
+#A script that displays listening sockets
+#and the PID and name of the program to which each socket belongs
 netstat -lnp
